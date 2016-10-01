@@ -1,0 +1,49 @@
+Added Component: Designator=C1(C1206)
+Added Component: Designator=C2(C1206)
+Added Component: Designator=C3(C1206)
+Added Component: Designator=R1(J1-0603)
+Added Component: Designator=R2(J1-0603)
+Added Component: Designator=R3(J1-0603)
+Added Component: Designator=U1(QFN50P500X500X80_HS-33N)
+Added Component: Designator=U2(BME280)
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=NetR1_1 Pin=R1-1
+Added Pin To Net: NetName=GND Pin=R1-2
+Added Pin To Net: NetName=NetR1_1 Pin=U1-31
+Added Pin To Net: NetName=RST_PU Pin=U1-32
+Added Pin To Net: NetName=GND Pin=U1-33
+Added Pin To Net: NetName=GND Pin=U2-1
+Added Pin To Net: NetName=GND Pin=U2-5
+Added Pin To Net: NetName=GND Pin=U2-7
+Added Pin To Net: NetName=NetR2_2 Pin=R2-2
+Added Pin To Net: NetName=NetR2_2 Pin=R3-2
+Added Net: Name=NetR2_2
+Added Pin To Net: NetName=SCL Pin=R3-1
+Added Pin To Net: NetName=SCL Pin=U2-4
+Added Net: Name=SCL
+Added Pin To Net: NetName=SDA Pin=R2-1
+Added Pin To Net: NetName=SDA Pin=U2-3
+Added Net: Name=SDA
+Added Pin To Net: NetName=VDD33 Pin=C1-2
+Added Pin To Net: NetName=VDD33 Pin=C2-2
+Added Pin To Net: NetName=VDD33 Pin=C3-2
+Added Pin To Net: NetName=VDD33 Pin=U1-1
+Added Pin To Net: NetName=VDD33 Pin=U1-3
+Added Pin To Net: NetName=VDD33 Pin=U1-4
+Added Pin To Net: NetName=VDD33 Pin=U1-11
+Added Pin To Net: NetName=VDD33 Pin=U1-17
+Added Pin To Net: NetName=VDD33 Pin=U1-29
+Added Pin To Net: NetName=VDD33 Pin=U1-30
+Added Pin To Net: NetName=VDD33 Pin=U2-2
+Added Net: Name=VDD33
+Added Member To Class: ClassName=AirSensor Member=Component C1 
+Added Member To Class: ClassName=AirSensor Member=Component C2 
+Added Member To Class: ClassName=AirSensor Member=Component C3 
+Added Member To Class: ClassName=AirSensor Member=Component R1 
+Added Member To Class: ClassName=AirSensor Member=Component R2 Res3
+Added Member To Class: ClassName=AirSensor Member=Component R3 Res3
+Added Member To Class: ClassName=AirSensor Member=Component U1 ESP8285
+Added Member To Class: ClassName=AirSensor Member=Component U2 BME280
+Added Room: Name=AirSensor
