@@ -1015,6 +1015,12 @@ SelectedOnly=0
 UpdateVariants=1
 PartTypes=0
 
+[ToDoManager]
+ProjectToDo1=Name=Add Crystal item to library~1|UID=KENXDAKM
+ProjectToDo2=Name=Add photosensors to library|UID=PSXJSNAF
+ProjectToDo3=Name=Add programming header|UID=LRGXFWQG
+ProjectToDo4=Name=Add antenna library|UID=XTSOSEWN
+
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
 ComparisonOptions1=Kind=Net Class|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0

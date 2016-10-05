@@ -1,0 +1,55 @@
+Removed Pin From Net: NetName=SDA Pin=R2-1
+Removed Pin From Net: NetName=VDD33 Pin=R2-2
+Removed Pin From Net: NetName=SCL Pin=R3-1
+Removed Pin From Net: NetName=VDD33 Pin=R3-2
+Added Component: Designator=Q1(TO-226-AA)
+Added Component: Designator=Q2(TO-226-AA)
+Added Component: Designator=R6(J1-0603)
+Added Component: Designator=R7(J1-0603)
+Added Component: Designator=R8(J1-0603)
+Added Component: Designator=R9(J1-0603)
+Added Component: Designator=Y1(R38)
+Added Pin To Net: NetName=GND Pin=Q1-3
+Added Pin To Net: NetName=GND Pin=Q2-3
+Added Pin To Net: NetName=VDD33 Pin=R2-1
+Added Pin To Net: NetName=SCL Pin=R2-2
+Added Pin To Net: NetName=VDD33 Pin=R3-1
+Added Pin To Net: NetName=SDA Pin=R3-2
+Added Pin To Net: NetName=VDD33 Pin=R6-2
+Added Pin To Net: NetName=VDD33 Pin=R8-2
+Added Pin To Net: NetName=SCL Pin=U1-9
+Added Pin To Net: NetName=SDA Pin=U1-14
+Added Pin To Net: NetName=LD1 Pin=R9-2
+Added Net: Name=LD1
+Added Pin To Net: NetName=LD2 Pin=R7-2
+Added Net: Name=LD2
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=NetD1_1 Pin=Q1-1
+Added Net: Name=NetD1_1
+Added Pin To Net: NetName=NetD1_2 Pin=D1-2
+Added Pin To Net: NetName=NetD1_2 Pin=R8-1
+Added Net: Name=NetD1_2
+Added Pin To Net: NetName=NetD2_1 Pin=D2-1
+Added Pin To Net: NetName=NetD2_1 Pin=Q2-1
+Added Net: Name=NetD2_1
+Added Pin To Net: NetName=NetD2_2 Pin=D2-2
+Added Pin To Net: NetName=NetD2_2 Pin=R6-1
+Added Net: Name=NetD2_2
+Added Pin To Net: NetName=NetQ1_2 Pin=Q1-2
+Added Pin To Net: NetName=NetQ1_2 Pin=R9-1
+Added Net: Name=NetQ1_2
+Added Pin To Net: NetName=NetQ2_2 Pin=Q2-2
+Added Pin To Net: NetName=NetQ2_2 Pin=R7-1
+Added Net: Name=NetQ2_2
+Added Pin To Net: NetName=RX Pin=U1-25
+Added Net: Name=RX
+Added Pin To Net: NetName=TX Pin=U1-26
+Added Net: Name=TX
+Added Member To Class: ClassName=AirSensor Member=Component Q1 NPN
+Added Member To Class: ClassName=AirSensor Member=Component Q2 NPN
+Added Member To Class: ClassName=AirSensor Member=Component R6 Res3
+Added Member To Class: ClassName=AirSensor Member=Component R7 Res3
+Added Member To Class: ClassName=AirSensor Member=Component R8 Res3
+Added Member To Class: ClassName=AirSensor Member=Component R9 Res3
+Added Member To Class: ClassName=AirSensor Member=Component Y1 XTAL
+Added Room: Name=AirSensor

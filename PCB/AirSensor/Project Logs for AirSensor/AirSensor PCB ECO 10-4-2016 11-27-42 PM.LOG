@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=VDD33 Pin=C5-2
+Removed Pin From Net: NetName=GND Pin=Q2-3
+Removed Pin From Net: NetName=GND Pin=R5-1
+Removed Pin From Net: NetName=VDD33 Pin=R6-2
+Removed Pin From Net: NetName=GND Pin=S2-1
+Removed Member From Class: ClassName=AirSensor Member=C5
+Removed Member From Class: ClassName=AirSensor Member=D2
+Removed Member From Class: ClassName=AirSensor Member=Q2
+Removed Member From Class: ClassName=AirSensor Member=R5
+Removed Member From Class: ClassName=AirSensor Member=R6
+Removed Member From Class: ClassName=AirSensor Member=R7
+Removed Member From Class: ClassName=AirSensor Member=S2
+Change Net Name : Old Net Name=LD1 New Net Name=LD
+Added Room: Name=AirSensor
