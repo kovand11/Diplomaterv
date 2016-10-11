@@ -1,0 +1,4 @@
+Added Component: Designator=J?(JST-PH2)
+Added Pin To Net: NetName=GND Pin=J?-1
+Added Pin To Net: NetName=VIN Pin=J?-2
+Added Member To Class: ClassName=AirSensor Member=Component J? JST-PH2

@@ -1,0 +1,81 @@
+Removed Pin From Net: NetName=GND Pin=C4-1
+Removed Pin From Net: NetName=RST_PU Pin=C4-2
+Removed Pin From Net: NetName=NetD1_1 Pin=Q1-1
+Removed Pin From Net: NetName=RST_PU Pin=R4-1
+Removed Pin From Net: NetName=VDD33 Pin=R4-2
+Removed Pin From Net: NetName=NetD1_2 Pin=R8-1
+Removed Pin From Net: NetName=GND Pin=U2-1
+Removed Pin From Net: NetName=VDD33 Pin=U2-2
+Removed Pin From Net: NetName=SDA Pin=U2-3
+Removed Pin From Net: NetName=SCL Pin=U2-4
+Removed Member From Class: ClassName=AirSensor Member=C4
+Added Component: Designator=R5(J1-0603)
+Added Component: Designator=R10(J1-0603)
+Added Component: Designator=R11(J1-0603)
+Added Component: Designator=R12(J1-0603)
+Added Component: Designator=R13(J1-0603)
+Added Component: Designator=R14(J1-0603)
+Added Component: Designator=R15(J1-0603)
+Added Component: Designator=U3(BME280)
+Added Pin To Net: NetName=GND Pin=P1-1
+Added Pin To Net: NetName=RX Pin=P1-2
+Added Pin To Net: NetName=TX Pin=P1-3
+Added Pin To Net: NetName=VDD33 Pin=P1-4
+Added Pin To Net: NetName=NetD1_2 Pin=Q1-1
+Added Pin To Net: NetName=GND Pin=R4-1
+Added Pin To Net: NetName=RST_PU Pin=R4-2
+Added Pin To Net: NetName=RST_PU Pin=R5-1
+Added Pin To Net: NetName=VDD33 Pin=R5-2
+Added Pin To Net: NetName=NetD1_1 Pin=R8-1
+Added Pin To Net: NetName=GND Pin=R10-1
+Added Pin To Net: NetName=GND Pin=R11-1
+Added Pin To Net: NetName=VDD33 Pin=R15-1
+Added Pin To Net: NetName=RST_PU Pin=U1-8
+Added Pin To Net: NetName=LD Pin=U1-10
+Added Pin To Net: NetName=XTAL_IN Pin=U2-1
+Added Pin To Net: NetName=GND Pin=U2-2
+Added Pin To Net: NetName=XTAL_OUT Pin=U2-3
+Added Pin To Net: NetName=GND Pin=U2-4
+Added Pin To Net: NetName=GND Pin=U2-1
+Added Pin To Net: NetName=VDD33 Pin=U2-2
+Added Pin To Net: NetName=SDA Pin=U2-3
+Added Pin To Net: NetName=SCL Pin=U2-4
+Change Net Name : Old Net Name=RST_PU New Net Name=RST
+Added Pin To Net: NetName=ADC_OUT Pin=P1-8
+Added Net: Name=ADC_OUT
+Added Pin To Net: NetName=ADC Pin=U1-6
+Added Net: Name=ADC
+Added Pin To Net: NetName=GPIO0_OUT Pin=P1-5
+Added Pin To Net: NetName=GPIO0_OUT Pin=R12-2
+Added Net: Name=GPIO0_OUT
+Added Pin To Net: NetName=GPIO0 Pin=R11-2
+Added Pin To Net: NetName=GPIO0 Pin=R12-1
+Added Pin To Net: NetName=GPIO0 Pin=U1-15
+Added Net: Name=GPIO0
+Added Pin To Net: NetName=GPIO4_OUT Pin=P1-6
+Added Pin To Net: NetName=GPIO4_OUT Pin=R13-2
+Added Net: Name=GPIO4_OUT
+Added Pin To Net: NetName=GPIO5_OUT Pin=P1-7
+Added Pin To Net: NetName=GPIO5_OUT Pin=R14-2
+Added Net: Name=GPIO5_OUT
+Added Pin To Net: NetName=MTDO Pin=R10-2
+Added Net: Name=MTDO
+Added Pin To Net: NetName=NetR13_1 Pin=R13-1
+Added Pin To Net: NetName=NetR13_1 Pin=U1-16
+Added Net: Name=NetR13_1
+Added Pin To Net: NetName=NetR14_1 Pin=R14-1
+Added Pin To Net: NetName=NetR14_1 Pin=U1-24
+Added Net: Name=NetR14_1
+Added Pin To Net: NetName=NetR15_2 Pin=R15-2
+Added Pin To Net: NetName=NetR15_2 Pin=U1-7
+Added Net: Name=NetR15_2
+Added Pin To Net: NetName=TMP_ANT Pin=U1-2
+Added Net: Name=TMP_ANT
+Added Member To Class: ClassName=AirSensor Member=Component R5 Res3
+Added Member To Class: ClassName=AirSensor Member=Component R10 Res3
+Added Member To Class: ClassName=AirSensor Member=Component R11 Res3
+Added Member To Class: ClassName=AirSensor Member=Component R12 Res3
+Added Member To Class: ClassName=AirSensor Member=Component R13 Res3
+Added Member To Class: ClassName=AirSensor Member=Component R14 Res3
+Added Member To Class: ClassName=AirSensor Member=Component R15 Res3
+Added Member To Class: ClassName=AirSensor Member=Component U3 BME280

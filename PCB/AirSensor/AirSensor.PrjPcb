@@ -70,6 +70,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BFMAKPDN
 
+[Document3]
+DocumentPath=mylib.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=IWVAMRNT
+
 [Configuration1]
 Name=Default Configuration
 ParameterCount=0
@@ -1016,10 +1033,9 @@ UpdateVariants=1
 PartTypes=0
 
 [ToDoManager]
-ProjectToDo1=Name=Add Crystal item to library~1|UID=KENXDAKM
-ProjectToDo2=Name=Add photosensors to library|UID=PSXJSNAF
-ProjectToDo3=Name=Add programming header|UID=LRGXFWQG
-ProjectToDo4=Name=Add antenna library|UID=XTSOSEWN
+ProjectToDo1=Name=Add antenna~1|UID=XTSOSEWN
+ProjectToDo2=Name=Add Switch~1|UID=RYTIGBPV
+ProjectToDo3=Name=Header Lyuk ~1|UID=VOTCMPTP
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0

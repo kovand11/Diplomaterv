@@ -1,0 +1,2 @@
+Change Component Footprint: Designator=Q1 Old Footprint=TO-226-AA New Footprint=BCX70H215
+Added Member To Class: ClassName=AirSensor Member=Component Q1 NPN

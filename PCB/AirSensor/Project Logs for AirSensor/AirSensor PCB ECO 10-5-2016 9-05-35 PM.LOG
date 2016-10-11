@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=GND Pin=U2-1
+Removed Pin From Net: NetName=VDD33 Pin=U2-2
+Removed Pin From Net: NetName=SDA Pin=U2-3
+Removed Pin From Net: NetName=SCL Pin=U2-4
+Removed Member From Class: ClassName=AirSensor Member=D2
+Removed Member From Class: ClassName=AirSensor Member=D?
+Added Component: Designator=P1(Header8)
+Added Component: Designator=U3(BME280)
+Added Pin To Net: NetName=XTAL_IN Pin=U2-1
+Added Pin To Net: NetName=GND Pin=U2-2
+Added Pin To Net: NetName=XTAL_OUT Pin=U2-3
+Added Pin To Net: NetName=GND Pin=U2-4
+Added Pin To Net: NetName=GND Pin=U2-1
+Added Pin To Net: NetName=VDD33 Pin=U2-2
+Added Pin To Net: NetName=SDA Pin=U2-3
+Added Pin To Net: NetName=SCL Pin=U2-4
+Added Member To Class: ClassName=AirSensor Member=Component P1 8 Pin Header

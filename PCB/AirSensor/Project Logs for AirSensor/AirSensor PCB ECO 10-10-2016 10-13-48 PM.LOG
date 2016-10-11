@@ -1,0 +1,4 @@
+Change Component DesignItemId : Designator=Q1 Old DesignItemId=NPN New DesignItemId=QNPN
+Change Component Footprint: Designator=Q1 Old Footprint=TO-226-AA New Footprint=SOT-23B_M
+Change Component Comment : Designator=Q1 Old Comment=NPN New Comment=QNPN
+Added Room: Name=AirSensor

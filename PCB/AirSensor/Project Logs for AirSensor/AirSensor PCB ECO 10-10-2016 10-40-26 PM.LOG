@@ -1,0 +1,9 @@
+Added Component: Designator=Q1(TO-226-AA)
+Added Pin To Net: NetName=GND Pin=Q1-3
+Added Pin To Net: NetName=NetD1_2 Pin=D1-2
+Added Pin To Net: NetName=NetD1_2 Pin=Q1-1
+Added Net: Name=NetD1_2
+Added Pin To Net: NetName=NetQ1_2 Pin=Q1-2
+Added Pin To Net: NetName=NetQ1_2 Pin=R9-1
+Added Net: Name=NetQ1_2
+Added Member To Class: ClassName=AirSensor Member=Component Q1 NPN

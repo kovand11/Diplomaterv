@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=GND Pin=R11-1
+Added Member To Class: ClassName=AirSensor Member=Component J1 JST-PH2
+Added Room: Name=AirSensor
