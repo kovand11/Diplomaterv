@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=GND Pin=S1-1
+Removed Pin From Net: NetName=RST Pin=S1-2
+Removed Member From Class: ClassName=AirSensor Member=S1
+Added Component: Designator=SW?(PTS810)
+Added Member To Class: ClassName=AirSensor Member=Component SW? PTS810
+Added Room: Name=AirSensor

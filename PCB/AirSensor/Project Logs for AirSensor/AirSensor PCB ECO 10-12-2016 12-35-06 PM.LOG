@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=GPIO0 Pin=R11-1
+Removed Pin From Net: NetName=GPIO0 Pin=R12-1
+Added Pin To Net: NetName=NetR11_1 Pin=R11-1
+Added Pin To Net: NetName=NetR11_1 Pin=R12-1
+Added Net: Name=NetR11_1
+Added Room: Name=AirSensor

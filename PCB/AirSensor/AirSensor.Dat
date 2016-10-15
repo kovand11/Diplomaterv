@@ -1,0 +1,15 @@
+Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~AirSensor.PrjPcb|ReportField=ProjectFullPath~C:\Users\Andras Kovacs\Desktop\Diplomaterv\PCB\AirSensor\AirSensor.PrjPcb|ReportField=Title~Bill of Materials For Project [AirSensor.PrjPcb] (No PCB Document Selected)|ReportField=TotalQuantity~39|ReportField=ReportTime~1:12:22 PM|ReportField=ReportDate~10/12/2016|ReportField=ReportDateTime~10/12/2016 1:12:22 PM|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~|ReportField=CurrentTime~|ReportField=Date~|ReportField=DocumentFullPathAndName~|ReportField=DocumentName~|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~|ReportField=Organization~|ReportField=ProjectName~|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~AirSensor.PrjPcb|ReportField=DataSourceFullPath~C:\Users\Andras Kovacs\Desktop\Diplomaterv\PCB\AirSensor\AirSensor.PrjPcb
+|Capacitor (Semiconductor SIM Model)|C1, C4, C5, C6, C7|1608[0603]|Cap Semi|5
+Cap Semi|Capacitor (Semiconductor SIM Model)|C2, C3, C8, C9, C10, C11|1608[0603]|Cap Semi|6
+LED|Typical BLUE SiC LED|D1, D2|LED0603|LED3|2
+JST-PH2||J1|JST-PH2|JST-PH2|1
+Inductor|Inductor|L1, L2|2029|Inductor|2
+8 Pin Header||P1|Header8|Header8|1
+|Resistor|R1|J1-0603|Res3|1
+Res3|Resistor|R2, R3, R4, R5, R8, R10, R11, R12, R13, R14, R15, R16, R17, R18|J1-0603|Res3|14
+PTS810||SW1|PTS810|PTS810|1
+ESP8285|ESP8285 Wifi enabled microcontroller|U1|QFN50P500X500X80_HS-33N|ESP8285|1
+FA-128|FA-128 26.0000MF10Z-W3|U2|DFN95P200X50-4N|FA128|1
+BME280|BME280 Temp., hum., press. sensor|U3|BME280|BME280|1
+NCP176BMX330TCG|NCP176BMX330TCG|U4|NCP176BMX330TCG|NCP176BMX330TCG|1
+VEML60xx|VEML60xx|U5, U6|VEML60xx|VEML60xx|2

@@ -1,0 +1,7 @@
+Added Component: Designator=U4(NCP176BMX330TCG)
+Added Pin To Net: NetName=VDD33 Pin=U4-1
+Added Pin To Net: NetName=VDD33 Pin=U4-2
+Added Pin To Net: NetName=GND Pin=U4-3
+Added Pin To Net: NetName=VIN Pin=U4-4
+Added Pin To Net: NetName=VIN Pin=U4-6
+Added Member To Class: ClassName=AirSensor Member=Component U4 NCP176BMX330TCG

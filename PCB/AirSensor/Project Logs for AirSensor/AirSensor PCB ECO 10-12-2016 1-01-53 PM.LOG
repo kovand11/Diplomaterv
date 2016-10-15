@@ -1,0 +1,9 @@
+Added Component: Designator=R17(J1-0603)
+Added Component: Designator=R18(J1-0603)
+Added Pin To Net: NetName=GND Pin=C9-1
+Added Pin To Net: NetName=ADC Pin=R17-1
+Added Pin To Net: NetName=ADC_OUT Pin=R17-2
+Added Pin To Net: NetName=GND Pin=R18-1
+Added Pin To Net: NetName=ADC Pin=R18-2
+Added Member To Class: ClassName=AirSensor Member=Component R17 Res3
+Added Member To Class: ClassName=AirSensor Member=Component R18 Res3
